@@ -10,8 +10,6 @@ import 'vue-material/dist/components'
 import 'vue-material/dist/vue-material.min.css'
 import 'vue-material/dist/theme/default.css'
 import VueMaterial from 'vue-material'
-import LoadScript from 'vue-plugin-load-script'
-Vue.use(LoadScript)
 Vue.use(VueMaterial)
 Vue.use(BootstrapVue)
 Vue.config.productionTip = false
